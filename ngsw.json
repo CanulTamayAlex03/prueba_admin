@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1683819478463,
+  "index": "https://CanulTamayAlex03.github.io/prueba_admin/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://CanulTamayAlex03.github.io/prueba_admin/favicon.ico",
+        "https://CanulTamayAlex03.github.io/prueba_admin/index.html",
+        "https://CanulTamayAlex03.github.io/prueba_admin/main.83c74dd139c59c01.js",
+        "https://CanulTamayAlex03.github.io/prueba_admin/manifest.webmanifest",
+        "https://CanulTamayAlex03.github.io/prueba_admin/polyfills.794d7387aea30963.js",
+        "https://CanulTamayAlex03.github.io/prueba_admin/runtime.89bfad0fe920d2c9.js",
+        "https://CanulTamayAlex03.github.io/prueba_admin/styles.bea87496bdb0b0cb.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-128x128.png",
+        "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-144x144.png",
+        "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-152x152.png",
+        "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-192x192.png",
+        "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-384x384.png",
+        "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-512x512.png",
+        "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-72x72.png",
+        "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-96x96.png",
+        "https://CanulTamayAlex03.github.io/prueba_admin/assets/logo_jomat.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-128x128.png": "cd0b47ae39e449cf4942d7f9ce1d5ca4a1af6f35",
+    "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-144x144.png": "1b2fa34e2603c9f6e8b9015bf6b6efb9c3abec1f",
+    "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-152x152.png": "7ff1f17978ba33ff16b4fbcb65cdd8f0f844f07f",
+    "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-192x192.png": "967fdba9fa34d63956e3ff7b6c4fc1fca97c43ad",
+    "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-384x384.png": "19b11d290a3da28e823d0a0abb1f80b13aa42eb9",
+    "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-512x512.png": "04568e229cc1429eb1eea3bf50a5306270dd2fb7",
+    "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-72x72.png": "a37960d41c0079331d20427c1056b30de5578368",
+    "https://CanulTamayAlex03.github.io/prueba_admin/assets/icons/icon-96x96.png": "a6b1753fd309bba44b37e352693befee0656cc34",
+    "https://CanulTamayAlex03.github.io/prueba_admin/assets/logo_jomat.png": "512c018b8459447bd3f516dc54027eed9d1b8797",
+    "https://CanulTamayAlex03.github.io/prueba_admin/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://CanulTamayAlex03.github.io/prueba_admin/index.html": "c04a7febbf4b3efeec73368299ff66890d74d7a6",
+    "https://CanulTamayAlex03.github.io/prueba_admin/main.83c74dd139c59c01.js": "a8541c62e57bb6da08590ed0e01859506cd0762e",
+    "https://CanulTamayAlex03.github.io/prueba_admin/manifest.webmanifest": "032b54331eee7709590a17a31e2fb5f0b1dcf1b9",
+    "https://CanulTamayAlex03.github.io/prueba_admin/polyfills.794d7387aea30963.js": "0b5d2ac7f91a9b9cac378b1b551f7bce1d1cfa4d",
+    "https://CanulTamayAlex03.github.io/prueba_admin/runtime.89bfad0fe920d2c9.js": "cedf50c3e04737c71d8b05b4d80ec9ba64003b4d",
+    "https://CanulTamayAlex03.github.io/prueba_admin/styles.bea87496bdb0b0cb.css": "02aef2f4132bb97073c4395659b9ba0db1ea790e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
